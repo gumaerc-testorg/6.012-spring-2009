@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 757af30b-a9e9-41af-4dbd-b522963306f9
 resourcetype: Document
 title: MIT6_012S09_syll01_conduct.pdf
 uid: 2a5038cd-ed81-45c2-0c8a-57aeb36308e4

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b887223a-5a61-9ba0-142a-fd233746e0f7
 resourcetype: Document
 title: MIT6_012S09_project.pdf
 uid: 89f2f4b2-4322-66c5-a853-9456c06c62f1

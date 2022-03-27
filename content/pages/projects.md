@@ -79,7 +79,7 @@ HSPICE quickstart guide ([PDF]({{< baseurl >}}/resources/mit6_012s09_prj01_res_h
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Models ([SUB](/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-spring-2009/projects/models.sub))
+Models ([SUB]({{< baseurl >}}/resources/models))
 {{< tdclose >}}
 
 {{< trclose >}}

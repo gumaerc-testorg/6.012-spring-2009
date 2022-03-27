@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 24b193e2-b124-a23a-7326-01507aee2d9a
 resourcetype: Document
 title: MIT6_012S09_ex03_final_07.pdf
 uid: 0d016193-1250-f5b8-efc9-2114452d0e32

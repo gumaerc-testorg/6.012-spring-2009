@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b887223a-5a61-9ba0-142a-fd233746e0f7
 resourcetype: Document
 title: MIT6_012S09_prj02_res_ltspe.pdf
 uid: 2dd8ebe2-2cb4-6054-3291-1583aa287011

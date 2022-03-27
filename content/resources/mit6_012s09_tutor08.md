@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
+parent_uid: c2c01b53-187c-2524-c792-101569d05535
 resourcetype: Document
 title: MIT6_012S09_tutor08.pdf
 uid: 6173759c-50c5-e5c5-04e8-07a4f31b4ad8
