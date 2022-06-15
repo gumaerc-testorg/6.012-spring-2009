@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, required
+  and reference texts, grading, and the policy for academic conduct.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 757af30b-a9e9-41af-4dbd-b522963306f9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -138,4 +144,4 @@ Attendance
 
 The final letter grade will also take into consideration non-numerical assessments of your command of the subject matter as evaluated by the lecturer, instructors, and TAs.
 
-Policy for Academic Conduct ([PDF]({{< baseurl >}}/resources/mit6_012s09_syll01_conduct))
+Policy for Academic Conduct ({{% resource_link 2a5038cd-ed81-45c2-0c8a-57aeb36308e4 "PDF" %}})

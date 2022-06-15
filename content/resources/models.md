@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-012-microelectronic-devices-and-circuits-spring-2009/24f434b964e15b38e00317b9836ca825_models.sub
+file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/24f434b964e15b38e00317b9836ca825_models.sub
 file_type: text/plain
 learning_resource_types:
 - Projects

@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section contains recitation notes.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
 title: Recitations
 uid: b4e36188-1c4b-60eb-db1b-0af5c204c505
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 These recitation notes were developed by Prof. Jing Kong, and were transcribed by Pavitra Krishnaswamy.
@@ -40,7 +45,7 @@ RECITATION NOTES
 Integrated circuit technology
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec01))
+({{% resource_link 9ac876bc-efd7-95c0-bb90-bc35ba289922 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +57,7 @@ Integrated circuit technology
 Equilibrium electron and hole concentration from doping
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec02))
+({{% resource_link 794ec731-82c1-ef42-1d3b-9f218a8adcd2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +69,7 @@ Equilibrium electron and hole concentration from doping
 Carrier action
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec03))
+({{% resource_link 84a18b21-818d-be2f-a98e-40a962aae160 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ Carrier action
 Electrostatic potential and carrier concentration
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec04))
+({{% resource_link 04998d37-5497-e86b-aecf-6f9b537f6481 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +93,7 @@ Electrostatic potential and carrier concentration
 Review of electrostatics
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec05))
+({{% resource_link a8f2eba9-14c3-aa60-0ecc-bbd7d9ec5c2e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +105,7 @@ Review of electrostatics
 p-n junction
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec06))
+({{% resource_link 8b773739-2e0c-f13f-22ba-c3298aa24f90 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ p-n junction
 From n+p diode to MOS structure
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec07))
+({{% resource_link e1399ec6-649b-3b41-8c04-bd1e9b1e2659 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +129,7 @@ From n+p diode to MOS structure
 MOS electrostatics under bias, MOS capacitor
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec08))
+({{% resource_link cfc348b1-eb02-bfb0-1df5-33be730e0cb2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +141,7 @@ MOS electrostatics under bias, MOS capacitor
 MOSFET V-I characteristics
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec09))
+({{% resource_link 908ce7ed-c329-bf6d-8a62-8d8a2b1cb3c9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +153,7 @@ MOSFET V-I characteristics
 MOSFET V-I characteristics: channel length modulation and back gate effect
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec10))
+({{% resource_link be36a762-3b2a-4da6-5679-043875fb4058 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +165,7 @@ MOSFET V-I characteristics: channel length modulation and back gate effect
 Small signal model of MOSFET, MOSFET in digital circuits
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec11))
+({{% resource_link 16357c98-88d3-c066-99dd-573b0f5a8869 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +177,7 @@ Small signal model of MOSFET, MOSFET in digital circuits
 CMOS noise margin
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec12))
+({{% resource_link 645f8389-cfdb-1018-da93-2ff15110edd0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +189,7 @@ CMOS noise margin
 Propagation delay, NAND/NOR gates
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec13))
+({{% resource_link 4eaff509-f8c5-f4d1-9f99-a616cf66a906 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +201,7 @@ Propagation delay, NAND/NOR gates
 p-n diode I-V characteristics (I)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec14))
+({{% resource_link 1582b618-a6a1-eaa7-8ffe-d1e2084a4e13 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,7 +213,7 @@ p-n diode I-V characteristics (I)
 p-n diode I-V characteristics (II)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec15))
+({{% resource_link bf2e5a64-7214-9689-9d48-644b8809dee0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +225,7 @@ p-n diode I-V characteristics (II)
 Small signal model of p-n diode
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec16))
+({{% resource_link 84da02c2-4946-0f3c-edc7-127ed6731c9e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -232,7 +237,7 @@ Small signal model of p-n diode
 BJT: basic operation in forward-active regime
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec17))
+({{% resource_link c9dfa8d8-b826-a212-a7e1-7da5a5323fcd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +249,7 @@ BJT: basic operation in forward-active regime
 BJT: regions of operation, small signal model
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec18))
+({{% resource_link 0df1f43c-a9d2-ef82-dafb-f858d8414d3f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +261,7 @@ BJT: regions of operation, small signal model
 Common emitter amplifier
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec19))
+({{% resource_link 4de23371-6b7b-eba2-5af7-622930741a54 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +273,7 @@ Common emitter amplifier
 Amplifiers review
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec20))
+({{% resource_link f1952db5-0e38-1c11-0872-48ff549762e6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -280,7 +285,7 @@ Amplifiers review
 Intrinsic frequency response of common source (CS) and common emitter (CE) amplifier
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec21))
+({{% resource_link 80258d4d-234f-5261-0226-ea43a3ca455a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -292,7 +297,7 @@ Intrinsic frequency response of common source (CS) and common emitter (CE) ampli
 CS amplifier frequency response
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec22))
+({{% resource_link f02902b2-82fa-9614-edb6-e7d9f9aac464 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -304,7 +309,7 @@ CS amplifier frequency response
 Frequency response of common collector (CC) and common base (CB) amplifier
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec23))
+({{% resource_link fb4496f0-45fd-166e-a989-c829882c0260 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -316,7 +321,7 @@ Frequency response of common collector (CC) and common base (CB) amplifier
 BiCMOS cascode amplifier
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec24))
+({{% resource_link a53bd458-ed20-2f11-d822-d01125993ab0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -328,7 +333,7 @@ BiCMOS cascode amplifier
 CMOS cascade amplifier
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_012s09_rec25))
+({{% resource_link 3a019262-eba7-7b09-7086-7586bafffccf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
