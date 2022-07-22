@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides information on the course textbook, a list of abbreviations,
+  and the schedule of readings by lecture topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 3d25b8f2-b25e-1491-9c4d-44ad8ede2b69
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The readings given below refer to sections in the course textbook:

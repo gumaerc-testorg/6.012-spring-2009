@@ -1,7 +1,17 @@
 ---
 content_type: page
+description: This section provides an overview of the MIT Microelectronics Wetlab,
+  lab assignments, instructions for the design project of the course, and supporting
+  files.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: b887223a-5a61-9ba0-142a-fd233746e0f7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 MIT Microelectronics WebLab
@@ -30,13 +40,13 @@ LABS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lab 1 ([PDF]({{< baseurl >}}/resources/mit6_012s09_lab01))
+Lab 1 ({{% resource_link b922db8d-fc2b-e1c5-7dfe-7b870b2c00a8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lab 2 ([PDF]({{< baseurl >}}/resources/mit6_012s09_lab02))
+Lab 2 ({{% resource_link 8a9ebd7d-d783-18f0-cbd6-2e95a4bc9cd5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,25 +68,25 @@ PROJECT FILES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Project instructions ([PDF]({{< baseurl >}}/resources/mit6_012s09_project))
+Project instructions ({{% resource_link 89f2f4b2-4322-66c5-a853-9456c06c62f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-LTSpice quickstart guide ([PDF]({{< baseurl >}}/resources/mit6_012s09_prj02_res_ltspe))
+LTSpice quickstart guide ({{% resource_link 2dd8ebe2-2cb4-6054-3291-1583aa287011 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-HSPICE quickstart guide ([PDF]({{< baseurl >}}/resources/mit6_012s09_prj01_res_hspe))
+HSPICE quickstart guide ({{% resource_link cddac7dc-70a9-7bd3-5ee6-5e10739121d3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Models ([SUB](/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-spring-2009/projects/models.sub))
+Models ({{% resource_link 24f434b9-64e1-5b38-e003-17b9836ca825 "SUB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
