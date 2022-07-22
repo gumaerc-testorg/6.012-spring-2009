@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/24f434b964
 file_type: text/plain
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection

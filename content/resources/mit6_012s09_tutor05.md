@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/1e8118a47f
 file_type: application/pdf
 learning_resource_types:
 - Tutorials
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to n- MOSFET.
-
