@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the policy for academic conduct.
 file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/2a5038cded8145c20c8a57aeb36308e4_MIT6_012S09_syll01_conduct.pdf
+file_size: 75432
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
