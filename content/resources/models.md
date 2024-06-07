@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/24f434b964e15b38e00317b9836ca825_models.sub
+file_size: 536
 file_type: text/plain
 learning_resource_types:
 - Projects

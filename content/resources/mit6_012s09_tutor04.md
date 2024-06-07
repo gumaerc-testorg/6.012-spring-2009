@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to electrostatics of
   MOS structure.
 file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/7e0ea6ef46e1fef1aeea5fd8768e6ef5_MIT6_012S09_tutor04.pdf
+file_size: 75474
 file_type: application/pdf
 learning_resource_types:
 - Tutorials

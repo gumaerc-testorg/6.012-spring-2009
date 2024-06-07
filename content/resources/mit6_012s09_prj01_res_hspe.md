@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about HSPICE quickstart guide.
 file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/cddac7dc70a97bd35ee65e10739121d3_MIT6_012S09_prj01_res_hspe.pdf
+file_size: 28517
 file_type: application/pdf
 learning_resource_types:
 - Projects
