@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to bipolar cascade
   amplifier frequency response.
 file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/b3b3e8120daedaef5b35bcca3c20961f_MIT6_012S09_tutor12.pdf
+file_size: 72302
 file_type: application/pdf
 learning_resource_types:
 - Tutorials
