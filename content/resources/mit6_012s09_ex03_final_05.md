@@ -2,7 +2,7 @@
 content_type: resource
 description: This resouce contains problem statements related to CMOS inverter, NMOS
   transductance, volatge gain and pn junction diode.
-file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/1154ece287532b35d3aeb9b6e4bd5a0c_MIT6_012S09_ex03_final_05.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-spring-2009/1154ece287532b35d3aeb9b6e4bd5a0c_MIT6_012S09_ex03_final_05.pdf
 file_size: 276366
 file_type: application/pdf
 learning_resource_types:

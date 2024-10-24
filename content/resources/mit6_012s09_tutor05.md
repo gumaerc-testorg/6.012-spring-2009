@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to n- MOSFET.
-file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/1e8118a47fc662545391e91263a40cdb_MIT6_012S09_tutor05.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-spring-2009/1e8118a47fc662545391e91263a40cdb_MIT6_012S09_tutor05.pdf
 file_size: 91849
 file_type: application/pdf
 learning_resource_types:

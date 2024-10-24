@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to common source amplifier
   frequency response.
-file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/0fd5ebac388ecd6e1d1360a664c1d638_MIT6_012S09_tutor11.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-spring-2009/0fd5ebac388ecd6e1d1360a664c1d638_MIT6_012S09_tutor11.pdf
 file_size: 72617
 file_type: application/pdf
 learning_resource_types:
