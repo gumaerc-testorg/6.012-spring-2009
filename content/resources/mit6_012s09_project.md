@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about project instructions.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-spring-2009/89f2f4b2432266c5a8539456c06c62f1_MIT6_012S09_project.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/89f2f4b2432266c5a8539456c06c62f1_MIT6_012S09_project.pdf
 file_size: 352554
 file_type: application/pdf
 learning_resource_types:

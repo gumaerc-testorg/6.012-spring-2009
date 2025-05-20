@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 1 problem statement related to PN junction diode.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-spring-2009/6173759c50c5e5c504e807a4f31b4ad8_MIT6_012S09_tutor08.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/6173759c50c5e5c504e807a4f31b4ad8_MIT6_012S09_tutor08.pdf
 file_size: 71305
 file_type: application/pdf
 learning_resource_types:
