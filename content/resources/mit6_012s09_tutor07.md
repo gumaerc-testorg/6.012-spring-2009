@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to buffer and XOR gates.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-spring-2009/02a4b8c54a306b1a7c9d7d674ee3892a_MIT6_012S09_tutor07.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/02a4b8c54a306b1a7c9d7d674ee3892a_MIT6_012S09_tutor07.pdf
 file_size: 42498
 file_type: application/pdf
 learning_resource_types:

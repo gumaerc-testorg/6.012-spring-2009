@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 1 problem statement related to common collector
   stage.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-spring-2009/1d5995984d55939eda4fd236e3814f73_MIT6_012S09_tutor10.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/1d5995984d55939eda4fd236e3814f73_MIT6_012S09_tutor10.pdf
 file_size: 99033
 file_type: application/pdf
 learning_resource_types:
