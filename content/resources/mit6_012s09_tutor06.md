@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to MOS device data.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-spring-2009/25705424376993ae4e0bbc8dfd0aa140_MIT6_012S09_tutor06.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/25705424376993ae4e0bbc8dfd0aa140_MIT6_012S09_tutor06.pdf
 file_size: 81640
 file_type: application/pdf
 learning_resource_types:
