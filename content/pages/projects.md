@@ -16,7 +16,7 @@ video_metadata:
 ---
 ## MIT Microelectronics WebLab
 
-The MIT Microelectronics WebLab is a microelectronics device characterization laboratory that can be accessed through the internet. This online laboratory has been developed as part of the [iLab project](http://icampus.mit.edu/ilabs/), under the aegis of [iCampus](http://icampus.mit.edu/) (the MIT-Microsoft® Alliance).
+The MIT Microelectronics WebLab is a microelectronics device characterization laboratory that can be accessed through the internet. This online laboratory has been developed as part of the [iLab project](https://wikis.mit.edu/confluence/display/ILAB2/Home), under the aegis of [iCampus](http://icampus.mit.edu/) (the MIT-Microsoft® Alliance).
 
 If you or your institution wishes to use this lab on a regular basis in your courses, you are encouraged to contact Prof. Jesús del Alamo at \[alamo *at* mit *dot* edu\].
 
