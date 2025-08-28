@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to pn junction diodes,
   MOSFETS and voltage gain.
-file: /courses/6-012-microelectronic-devices-and-circuits-spring-2009/0d0161931250f5b8efc92114452d0e32_MIT6_012S09_ex03_final_07.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-spring-2009/0d0161931250f5b8efc92114452d0e32_MIT6_012S09_ex03_final_07.pdf
 file_size: 131814
 file_type: application/pdf
 learning_resource_types:
