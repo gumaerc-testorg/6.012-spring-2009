@@ -16,7 +16,7 @@ video_metadata:
 ---
 ## MIT Microelectronics WebLab
 
-The MIT Microelectronics WebLab is a microelectronics device characterization laboratory that can be accessed through the internet. This online laboratory has been developed as part of the [iLab project](https://wikis.mit.edu/confluence/display/ILAB2/Home), under the aegis of [iCampus](http://icampus.mit.edu/) (the MIT-Microsoft® Alliance).
+The MIT Microelectronics WebLab is a microelectronics device characterization laboratory that can be accessed through the internet. This online laboratory has been developed as part of the {{% resource_link "2b2957e0-6a14-4b89-a7e1-fa253e99c3a9" "iLab project" %}}, under the aegis of {{% resource_link "f47eee63-804f-455b-b7e9-18b91d92ace2" "iCampus" %}} (the MIT-Microsoft® Alliance).
 
 If you or your institution wishes to use this lab on a regular basis in your courses, you are encouraged to contact Prof. Jesús del Alamo at \[alamo *at* mit *dot* edu\].
 
@@ -44,4 +44,4 @@ HSPICE quickstart guide ({{% resource_link "cddac7dc-70a9-7bd3-5ee6-5e10739121d3
 Models ({{% resource_link "24f434b9-64e1-5b38-e003-17b9836ca825" "SUB" %}})
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-LTSpice can be [downloaded from here](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html).
+LTSpice can be {{% resource_link "a038b843-06b2-4036-b202-016ecbeeaae4" "downloaded from here" %}}.
